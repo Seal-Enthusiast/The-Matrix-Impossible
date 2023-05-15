@@ -18,3 +18,6 @@ A 6 core CPU
 
 
 16gb of ram
+
+
+If requested copywrite holders of any assets/videos/audio may have this project removed from the public
